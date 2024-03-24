@@ -27,11 +27,11 @@ const Hero = () => {
   useGSAP(() => {
     gsap.to("#hero", {
       opacity: 1,
-      delay: 2,
+      delay: 2.5,
     })
     gsap.to("#cta", {
       opacity: 1,
-      delay: 2,
+      delay: 2.5,
       y: -50,
     })
   },[])
