@@ -1,8 +1,7 @@
-# React + Vite
+# React + Vite + Tailwind + GSAP + ThreeJs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A clone of Apple's iPhone 15 website
 
-Currently, two official plugins are available:
+![image](https://github.com/Eshanpokhrel/IP-15/assets/109594115/24c9e4b8-a162-440e-8a0f-d35f4b93433f)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* GLTFs into JSX: https://github.com/pmndrs/gltfjsx
