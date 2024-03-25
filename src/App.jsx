@@ -2,8 +2,10 @@ import './App.css'
 import Features from './components/Features'
 import Hero from './components/Hero'
 import Highlights from './components/Highlights'
+import HowItWorks from './components/HowItWorks'
 import Model from './components/Model'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 
 function App() {
 
@@ -14,6 +16,8 @@ function App() {
       <Highlights/> 
       <Model/>
       <Features/>
+      <HowItWorks/>
+      <Footer/>
     </main>
   )
 }
